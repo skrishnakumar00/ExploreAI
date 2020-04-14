@@ -1,0 +1,12 @@
+flask
+panel
+
+hvplot
+
+scikit-learn
+
+pandas
+statsmodels
+stldecompose
+bokeh
+gunicorn
